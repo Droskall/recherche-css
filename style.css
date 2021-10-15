@@ -1,0 +1,24 @@
+/*
+* Regle: Letter-spacing
+*/
+
+#para1 {
+    letter-spacing: 2rem;
+}
+
+#para2 {
+    font: italic 1.2em "Fira Sans", serif;
+}
+
+/*
+* text-overflow
+ */
+
+.overflow-clip-clip {
+    text-overflow: clip clip;
+    width: 200px;
+    border: 1px solid;
+    padding: 2px 5px;
+    white-space: nowrap;
+    overflow: scroll;
+}
