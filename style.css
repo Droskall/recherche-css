@@ -14,6 +14,7 @@
 * text-overflow
  */
 
+
 .overflow-clip-clip {
     text-overflow: clip clip;
     width: 200px;
